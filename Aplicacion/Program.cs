@@ -12,6 +12,7 @@ namespace Aplicacion
         {
             Console.Write("Bienvenido al curso de c#");
             Console.Write("Bienvenido al curso de c#");
+            Console.Write("Bienvenido al curso de c#");
             Console.ReadKey();
         }
     }
